@@ -1,0 +1,29 @@
+.calcContainer{
+	margin-left: 300px;
+	margin-top: 60px;
+	max-width: 375px;
+	max-height: 500px;
+	border: 5px solid black;
+	background: gray;
+	float: left;
+	border-radius: 15px;
+	padding: 1px;
+}
+.number, .answer, .back, .sign{
+	width: 60px;
+	height: 60px;
+	border: 1px solid black;
+	font-weight: bold;
+	font-size: 40px;
+	float: left;
+	text-align: center;
+	margin: 15px;
+}
+.display{
+	width: 370px;
+	height: 25px;
+	float: left;
+	border-bottom: 2px solid black;
+	border-radius: 15px;
+	margin-top: 4px;
+}
