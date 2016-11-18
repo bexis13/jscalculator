@@ -3,7 +3,7 @@ var numbers = document.querySelectorAll('.number');
 var answer = document.querySelector('.answer');
 var signs = document.querySelectorAll('.sign');
 var back = document.querySelector('.back');
-afterAnswer = false
+var afterAnswer = false
 for (var i = 0; i < numbers.length; i++) {
 	numbers[i].onclick = function(){
 		if (afterAnswer) {
