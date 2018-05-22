@@ -1,26 +1,13 @@
-     ,-----.,--.                  ,--. ,---.   ,--.,------.  ,------.
-    '  .--./|  | ,---. ,--.,--. ,-|  || o   \  |  ||  .-.  \ |  .---'
-    |  |    |  || .-. ||  ||  |' .-. |`..'  |  |  ||  |  \  :|  `--, 
-    '  '--'\|  |' '-' ''  ''  '\ `-' | .'  /   |  ||  '--'  /|  `---.
-     `-----'`--' `---'  `----'  `---'  `--'    `--'`-------' `------'
-    ----------------------------------------------------------------- 
+# Javascript Calculator
 
+Part of the Free Code Camp Front End certification [A Javascript Calculator](https://www.freecodecamp.org/challenges/build-a-javascript-calculator) projects.
 
-Hi there! Welcome to Cloud9 IDE!
+The user stories are:
 
-To get you started, we included a small hello world application.
+   1.   I can add, subtract, multiply and divide two numbers.
+   2.   I can clear the input field with a clear button.
+   3.    I can keep chaining mathematical operations together until I hit the equal button, and the calculator will tell me the correct output.
+   
+    
 
-1) Open the hello-world.html file
-
-2) Click on the Preview button to open a live preview pane
-
-3) Make some changes to the file, save, watch the preview, and have fun!
-
-Happy coding!
-The Cloud9 IDE team
-
-
-## Support & Documentation
-
-Visit http://docs.c9.io for documentation, or http://support.c9.io for support.
-To watch some training videos, visit http://www.youtube.com/user/c9ide
+You can find the application hosted on codepen [Here](https://codepen.io/bexis/full/KREMZx/).
